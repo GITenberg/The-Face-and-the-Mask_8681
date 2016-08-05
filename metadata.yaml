@@ -1,0 +1,38 @@
+_repo: The-Face-and-the-Mask_8681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: Twenty-four delightful short stories are collected in this volume. Mr.
+  Barr is one of the most interesting and remarkable of American writers. ""A pure
+  humorist, "" A. Conan Doyle calls him. He is happily described by The London Atheneaum
+  as a writer who deals with real men and women.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The woman of stone -- The chemistry of anarchy -- The fear of it
+  -- The metamorphoses of Johnson -- The reclamation of Joe Hollends -- The type-written
+  letter -- The doom of London -- The predicament of De Plonville -- A new explosive
+  -- The great Pegram mystery -- Death cometh soon or late -- High stakes -- "Where
+  ignorance is bliss" -- The departure of Cub McLean -- Old number eighty-six -- Playing
+  with marked cards -- The bruiser's courtship --  The raid on Mellish -- Striking
+  back -- Crandall's choice -- The failure of Bradley -- Ringamy's convert -- A slippery
+  customer -- The sixth bench.
+title: The Face and the Mask
+url: http://www.gutenberg.org/ebooks/8681
