@@ -1,5 +1,8 @@
 _repo: The-Face-and-the-Mask_8681
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Barr, Robert
@@ -12,6 +15,8 @@ description: Twenty-four delightful short stories are collected in this volume. 
   Barr is one of the most interesting and remarkable of American writers. ""A pure
   humorist, "" A. Conan Doyle calls him. He is happily described by The London Atheneaum
   as a writer who deals with real men and women.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8681#The-Face-and-the-Mask
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-11-14'
 gutenberg_type: Text
